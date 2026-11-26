@@ -24,14 +24,14 @@ This document summarizes the five uploaded PDF documents. The source PDFs are pr
 
 | Module / NOS ID | NSQF level | Maximum | Obtained | Percentage |
 |---|---:|---:|---:|---:|
-| 360DGPFMOD4 | 5 | 10 | 7 | 100.00% |
-| 360DGPFMOD5 | 5 | 10 | 7 | 100.00% |
+| 360DGPFMOD4 | 5 | 10 | 10 | 100.00% |
+| 360DGPFMOD5 | 5 | 10 | 10 | 100.00% |
 | 360DGPFMOD6 | 5 | 10 | 10 | 100.00% |
 | 360DGPFMOD7 | 5 | 10 | 10 | 100.00% |
 | 360DGPFMOD8 | 5 | 20 | 18 | 90.00% |
-| 360DGPFMOD9 | 5 | 20 | 14 | 85.00% |
-| 360DGPFMOD10 | 5 | 20 | 17 | 100.00% |
-| **Total** | | **100** | **83** | **83.00%** |
+| 360DGPFMOD9 | 5 | 20 | 17 | 85.00% |
+| 360DGPFMOD10 | 5 | 20 | 20 | 100.00% |
+| **Total** | | **100** | **95** | **95.00%** |
 
 
 ## 2. Pixathon 2026 Certificate of Participation
